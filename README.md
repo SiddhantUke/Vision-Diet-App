@@ -1,4 +1,4 @@
-# Vision-Diet-App
+App Link - https://vision-diet-app-29h5ygvs72veze43tzap56.streamlit.app/
 
 # 🍽️ Vision Diet App
 
