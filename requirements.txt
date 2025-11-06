@@ -1,0 +1,10 @@
+streamlit
+google.generativeai
+python-dotenv
+# streamlit
+pillow
+torch
+transformers
+accelerate
+sentencepiece
+safetensors
